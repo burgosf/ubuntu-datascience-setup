@@ -7,6 +7,11 @@ sudo apt-get -y install git curl vim htop
 # install python development and python-pip:
 sudo apt-get -y install python3 python3-dev python3-pip
 
+# install sublime text 3:
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+
 # make sure to have the latest pip:
 pip3 install --upgrade pip
 
