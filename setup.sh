@@ -77,5 +77,6 @@ pip3 install gensim
 pip3 install jupyterthemes
 jupyter-theme -J -t oceans16 -T
 
-
-
+# potential web browser if needed
+# wget http://www.slimjet.com/release/archive/8.0.4.0/slimjet_amd64.deb
+# sudo dpkg -i slimjet_amd64.deb
